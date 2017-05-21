@@ -1,2 +1,2 @@
 # testrepo
-testing
+just a test
